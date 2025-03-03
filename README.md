@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Adina-Ionela Jarda!
+Computer Science Student at Technical University of Cluj-Napoca
+Passionate about software development, problem-solving, and learning new technologies.
+Looking for opportunities to grow and contribute to exciting projects.
 
-<!--
-**jardaadina/jardaadina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technologies & Skills
+Programming: Java, C/C++, MATLAB, VHDL, Assembly
+Web: HTML & CSS
+Databases: MySQL
+Tools: Simulink, LabView, Microsoft Office Suite
+Operating Systems: Windows & Linux
 
-Here are some ideas to get you started:
+Projects
+Check out some of my projects on GitHub: GitHub Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+Email: adinajarda2@gmail.com
+LinkedIn: Adina Jarda
