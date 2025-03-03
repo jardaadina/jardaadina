@@ -11,7 +11,7 @@ Tools: Simulink, LabView, Microsoft Office Suite
 Operating Systems: Windows & Linux
 
 Projects
-Check out some of my projects on GitHub: GitHub Portfolio
+Check out some of my projects on GitHub
 
 Contact
 Email: adinajarda2@gmail.com
