@@ -14,4 +14,4 @@ Curious about what I’ve been working on? Check out my GitHub!
 
 ## Get in Touch
 **Email:** adinajarda2@gmail.com  
-**LinkedIn:** [Adina Jarda](https://www.linkedin.com/in/adina-jarda)
+**LinkedIn:** [Adina Jarda]([https://www.linkedin.com/in/adina-jarda](https://www.linkedin.com/in/adina-jarda-6908502a9/))
