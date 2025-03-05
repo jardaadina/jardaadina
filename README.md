@@ -10,7 +10,7 @@
 - **Operating Systems:** Windows & Linux
 
 ## Projects
-Curious about what I’ve been working on? Check out my GitHub for some cool projects! 
+Curious about what I’ve been working on? Check out my GitHub! 
 
 ## Get in Touch
 **Email:** adinajarda2@gmail.com  
