@@ -1,18 +1,17 @@
-Hi, I'm Adina-Ionela Jarda!
-Computer Science Student at Technical University of Cluj-Napoca
-Passionate about software development, problem-solving, and learning new technologies.
-Looking for opportunities to grow and contribute to exciting projects.
+# Hello, I'm Adina-Ionela Jarda!
 
-Technologies & Skills
-Programming: Java, C/C++, MATLAB, VHDL, Assembly
-Web: HTML & CSS
-Databases: MySQL
-Tools: Simulink, LabView, Microsoft Office Suite
-Operating Systems: Windows & Linux
+**Computer Science Student** at the Technical University of Cluj-Napoca. Passionate about **software development, problem-solving**, and always eager to learn new technologies.Looking for exciting opportunities to grow and contribute to impactful projects!
 
-Projects
-Check out some of my projects on GitHub
+## Technologies & Skills
+- **Programming:** Java, C/C++, MATLAB, VHDL, Assembly
+- **Web:** HTML & CSS
+- **Databases:** MySQL
+- **Tools:** Simulink, LabView, Microsoft Office Suite
+- **Operating Systems:** Windows & Linux
 
-Contact
-Email: adinajarda2@gmail.com
-LinkedIn: Adina Jarda
+## Projects
+Curious about what I’ve been working on? Check out my GitHub for some cool projects! 
+
+## Get in Touch
+**Email:** adinajarda2@gmail.com  
+**LinkedIn:** [Adina Jarda](https://www.linkedin.com/in/adina-jarda)
