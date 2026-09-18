@@ -5,10 +5,15 @@ Computer Science graduate of the Technical University of Cluj-Napoca, currently 
 ## Technologies & Tools
 
 **Languages:** Java, Python, C/C++, VHDL, Assembly
+
 **Web:** HTML, CSS, React, Angular, TypeScript, FastAPI, Spring Boot
+
 **Databases:** PostgreSQL, MySQL, Oracle, PL/SQL
+
 **Machine Learning:** PyTorch, scikit-learn, OpenCV, Ultralytics
+
 **Tools:** Git, Docker, Simulink, LabView
+
 **Operating Systems:** Windows & Linux
 
 ## My Projects
